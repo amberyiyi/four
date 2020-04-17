@@ -1,0 +1,71 @@
+
+/* footer start */
+.footer{
+    width: 100%;
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+    background: #383838;
+}
+.footer-cont{
+    display: flex;
+    width: 1200px;
+}
+.footer-cont>.footer-list{
+    flex: 1;
+    width: 150px;
+    text-align: center;
+}
+.footer-cont>.footer-list>dl{
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.footer-cont>.footer-list>dl>dt{
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.footer-cont>.footer-list>dl>dd{
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 15px;
+}
+.footer-cont>.footer-list>dl a{
+    color: #fff;
+    text-decoration: none;
+}
+.footer-cont>.footer-right{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 15px;
+    color: #FFFFFF;
+    line-height: 160%;
+    flex: 3;
+    text-align: left;
+}
+.footer-cont>.clear{
+    clear: both;
+}
+.footer-bottom{
+    clear: both;
+    float: left;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #000000;
+}
+.footer-bottom>.footer-bottom-cont{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+.footer-bottom>.footer-bottom-cont>.footer-bottom-cont-left{
+    flex: 1;
+    color: #fff;
+    font-size: 12px;
+}
+/* footer end */

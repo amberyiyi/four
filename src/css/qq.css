@@ -1,0 +1,35 @@
+.qq{
+    width: 40px;
+    height: 133px;
+    background: #013d71;
+    padding-top: 10px;
+    position: absolute;
+    right:0;
+    bottom:200px;
+}
+.qq div{
+    color:#fff;
+    font-weight: bold;
+    cursor: pointer;
+    height:30px;
+    text-align: center;
+}
+.call{
+    width:100px;
+    height:250px;
+    display: none;
+    background:#fefefe;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    position: absolute;
+    right:0px;
+    bottom:150px;
+    padding:10px;
+    text-align: center;
+}
+.call img{
+    width:80%;
+    height: auto;
+    border-radius: 40px;
+    display: block;
+}

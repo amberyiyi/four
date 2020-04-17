@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+}
+.hea{
+    width: 100%;
+    height: 40px;
+    background:#013d71;
+}
+.header{
+    width:80%;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+}
+.header .topL{
+    float:left;
+     height: 40px;
+    line-height: 40px;
+}
+.header .topR{
+    color: #f00;
+    height: 40px;
+    line-height: 40px;
+    float: right;
+    display: inline-block;
+}
+.header a{
+    font-size: 12px;
+    color: #fff;
+    display: inline-block;
+}

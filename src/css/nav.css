@@ -1,0 +1,84 @@
+.allnav{
+    background:#0068c1;
+    width:100%;
+    height: 87px;
+    line-height: 87px;
+}
+.yellow{
+    color:yellow !important;
+}
+a{
+    text-decoration: none;
+}
+.allnav .nav{
+    width:80%;
+    height: 84px;
+}
+.logo{
+    float:left;
+    line-height: 87px;
+}
+.logo img.one{
+    margin-top: 15px;
+}
+.allnav .navright{
+    float:right;
+}
+.allnav .navright ul{
+    list-style-type: none;
+}
+ul{
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.allnav .navright ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.allnav .navright ul li{
+    float: left;
+}
+.nav li {
+    float: left;
+    position: relative;
+}
+.nav li .nav-item {
+    display: block;
+    line-height: 87px;
+    font-size: 16px;
+}
+.nav li :hover{
+    background:rgba(0, 0, 0, 0.1);
+}
+#nav-item:hover .nav-list{
+    
+    display: block;
+}
+.nav-list{
+    overflow: hidden;
+    position:absolute;
+    display: none;
+    /*height: 85px;*/
+    /*margin-top: 0px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;*/
+}
+
+.nav-list .nav-list-item {
+    padding: 3px 0px;
+}
+.nav-list-item a {
+    height: 50px;
+    color: #fff;
+    font-size: 14px;
+    display: block;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+}
