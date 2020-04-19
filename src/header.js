@@ -159,42 +159,42 @@ export default class Header extends React.Component{
                 </div>
             </div>
                         <Route exact path="/" exact render={()=>(<Indexx />)}/>
-                        <Route exact path="/domain" exact={true} Component={Domain}/>
-                        <Route exact path="/host" exact={true} Component={Host}/>
-                        <Route exact path="/cloud" exact={true} Component={Cloud}/>
-                        <Route exact path="/website" exact={true} Component={Website}/>
-                        <Route exact path="/email" exact={true} Component={Email}/>
-                        <Route exact path="/free" exact={true} Component={Free}/>
+                        <Route exact path="/domain" exact={true} render={()=>(<Domain />)}/>
+                        <Route exact path="/host" exact={true} render={()=>(<Host />)}/>
+                        <Route exact path="/cloud" exact={true} render={()=>(<Cloud />)}/>
+                        <Route exact path="/website" exact={true} render={()=>(<Website />)}/>
+                        <Route exact path="/email" exact={true} render={()=>(<Email />)}/>
+                        <Route exact path="/free" exact={true} render={()=>(<Free />)}/>
 
-                        <Route exact path="/regist/" exact={true} Component={Regist}/>
+                        <Route exact path="/regist/" exact={true} render={()=>(<Regist />)}/>
                         <Route exact path="/user"exact={true} render={()=>(<User />)}/>
-                        <Route exact path="/agent/" exact={true} Component={Agent}/>
-                        <Route exact path="/help/" exact={true} Component={Help}/>
-                        <Route exact path="/netpay/" exact={true} Component={Netpay}/>
-                        <Route exact path="/callus/" exact={true} Component={Callus}/>
+                        <Route exact path="/agent/" exact={true} render={()=>(<Agent />)}/>
+                        <Route exact path="/help/" exact={true} render={()=>(<Help />)}/>
+                        <Route exact path="/netpay/" exact={true} render={()=>(<Netpay />)}/>
+                        <Route exact path="/callus/" exact={true} render={()=>(<Callus />)}/>
 
-                        <Route exact path="/user/aws" exact={true} Component={Help}/>
-                        <Route exact path="/member/" exact={true} Component={Member}/>
-                        <Route exact path="/moneylist/" exact={true} Component={Moneylist}/>
-                        <Route exact path="/logout/" exact={true} Component={Logout}/>
+                        <Route exact path="/user/aws" exact={true} render={()=>(<Help />)}/>
+                        <Route exact path="/member/" exact={true} render={()=>(<Member />)}/>
+                        <Route exact path="/moneylist/" exact={true} render={()=>(<Moneylist />)}/>
+                        <Route exact path="/logout/" exact={true} render={()=>(<Logout />)}/>
 
                         {/*host二级页面*/}
-                        <Route exact path="/host/china" exact={true} Component={Hchina}/>
-                        <Route exact path="/host/hongkong" exact={true} Component={Hhongkong}/>
-                        <Route exact path="/host/japan" exact={true} Component={Hjapan}/>
-                        <Route exact path="/host/sina" exact={true} Component={Hsina}/>
-                        <Route exact path="/host/russia" exact={true} Component={Hrussia}/>
-                        <Route exact path="/host/usa" exact={true} Component={Husa}/>
+                        <Route exact path="/host/china" exact={true} render={()=>(<Hchina />)}/>
+                        <Route exact path="/host/hongkong" exact={true} render={()=>(<Hhongkong />)}/>
+                        <Route exact path="/host/japan" exact={true} render={()=>(<Hjapan />)}/>
+                        <Route exact path="/host/sina" exact={true} render={()=>(<Hsina />)}/>
+                        <Route exact path="/host/russia" exact={true} render={()=>(<Hrussia />)}/>
+                        <Route exact path="/host/usa" exact={true} render={()=>(<Husa />)}/>
                         
                         {/*cloud二级菜单*/}
-                        <Route exact path="/cloud/china" exact={true} Component={Cchina}/>
-                        <Route exact path="/cloud/hongkong" exact={true} Component={Chongkong}/>
-                        <Route exact path="/cloud/japan" exact={true} Component={Cjapan}/>
-                        <Route exact path="/cloud/russia" exact={true} Component={Crussia}/>
+                        <Route exact path="/cloud/china" exact={true} render={()=>(<Cchina />)}/>
+                        <Route exact path="/cloud/hongkong" exact={true} render={()=>(<Chongkong />)}/>
+                        <Route exact path="/cloud/japan" exact={true} render={()=>(<Cjapan />)}/>
+                        <Route exact path="/cloud/russia" exact={true} render={()=>(<Crussia />)}/>
                         
                         {/*website二级页面*/}
-                        <Route exact path="/website/two" exact={true} Component={Two}/>
-                        <Route exact path="/website/five" exact={true} Component={Five}/>
+                        <Route exact path="/website/two" exact={true} render={()=>(<Two />)}/>
+                        <Route exact path="/website/five" exact={true} render={()=>(<Five />)}/>
                         
         
         
