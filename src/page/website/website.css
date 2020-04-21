@@ -1,0 +1,73 @@
+.sub_about_banner2 {
+    width: 100%;
+    height: 300px;
+    background: url("https://www.c361.com/img/hostimg/website/banner/web_banner.jpg") no-repeat center;
+}
+.content{
+
+  position: absolute;
+
+  right:15%;
+  width: 60%;
+  top: 30px;
+  border: 1px solid #cfcfcf;
+
+ } 
+.sub_about_k_c_l ul nav {
+    width: 25%;
+
+
+}
+.sub_about_k_c_l{
+    position: relative;
+}
+
+.sub_about_k_c_l ul{
+  padding-bottom: 30px;
+    width: 80%;
+   text-align: left;
+
+}
+.nav1{
+    width: 180px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 20px;
+padding-bottom: 40px;
+height: auto;
+background: #41a9fe;
+
+
+    float: left;
+    margin-left: 12%;
+    margin-top: 30px;
+}
+.nav1 li{
+    width: 145px;
+    padding-left: 35px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px;
+    color: #FFFFFF;
+    border-bottom: 1px dotted #FFFFFF;
+    background: url("https://www.c361.com/Ytvps/Images/about_left_icon.png") 15px 16px no-repeat;
+} 
+.ul1{
+
+}
+.clear{
+    clear: both;
+}
+.haha ul li{
+    float: left;
+    width: 24%;
+    border: 1px #cfcfcf solid;
+}
+.haha ul{
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+.haha{
+    margin-top: 30px;
+}
