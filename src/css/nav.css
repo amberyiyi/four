@@ -11,7 +11,8 @@ a{
     text-decoration: none;
 }
 .allnav .nav{
-    width:80%;
+  /* 电脑屏幕适应，修改为了90%，原来是80% */
+    width:90%;
     height: 84px;
 }
 .logo{
