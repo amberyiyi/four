@@ -1,0 +1,115 @@
+.buy{
+    width:80%;
+    margin: 0 auto;
+    padding-top:30px;
+}
+.buy>h3{
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    text-align: center;
+    color:#0E92D0;
+}
+.buy .ctop ul{
+    list-style: none;
+    width:100%;
+    overflow: hidden;
+}
+.buy .ctop ul li{
+    float: left;
+    width:25%;
+    padding-bottom: 2px;
+    text-align: center;
+    /*background: url(./images/type_bg.jpg) repeat-x;
+    background-size:100% 100%;*/
+}
+.liactive{
+    background: url(./images/type_bg.jpg) repeat-x;
+    background-size:100% 100%;
+}
+.buy .ctop ul li a{
+    display: block;
+    font-size: 20px;
+    color: #000;
+}
+.buy .ctop ul li:hover ul li a{
+    color: #f00;
+}
+.one .contents {
+    overflow: hidden;
+}
+.one .contents .list{
+    width:285px;
+    height: auto;
+    position:relative;
+    margin-left: 8px;
+    margin-right:8px;
+    float: left;
+    
+}
+.list .list_c{
+    width:283px;
+    border: 1px solid #ccc;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom:100px;
+    background: #fff;
+}
+.list .list_c dl dt{
+    background: url(./images/index_gf_bg2.jpg);
+    width: 233px;
+    height: 86px;
+    line-height: 86px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.list .list_c dl dd{
+    width: 233px;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: #CCCCCC dashed 1px;
+    text-align: center;
+    font-size: 15px;
+}
+.list .list_c dl dd .fu{
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+}
+.list dl dd .yuan{
+    font-size: 25px;
+    font-weight: bold;
+    color: #CC0000;
+}
+.list .butt{
+    width: 130px;
+    height: 45px;
+    position: absolute;
+    bottom: 30px;
+    left: 85px;
+}
+.list .butt a{
+    width: 130px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    display: block;
+    transition: all 0.3s ease-out 0s;
+    background: #FF4000;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.list_r dl dt{
+    background:#fff !important;
+    color:#f00 !important;
+}
+.list_b dl dt{
+    background: url(./images/index_xj_bg.jpg) !important;
+    color: #0E92D0 !important;
+}

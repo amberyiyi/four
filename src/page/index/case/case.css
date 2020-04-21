@@ -1,0 +1,24 @@
+.case .title{
+    width: 100%;
+    padding-top: 40px;
+    background: #0492e8;
+    padding-bottom: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+}
+.case .contents{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 80%;
+    overflow: hidden;
+}
+.case .contents .card{
+    float: left;
+    width:16.5%;
+    border: 1px solid #eee;
+}
+.case .contents .card img{
+    width: 100%;
+}
