@@ -9,6 +9,7 @@
 .footer-cont{
     display: flex;
     width: 1200px;
+    margin: 0 auto;
 }
 .footer-cont>.footer-list{
     flex: 1;

@@ -1,0 +1,39 @@
+.banner-box{
+    width:100%;
+    height:148px;
+    background-image: url('../img/email_banner.jpg');
+    background-size: 100% 100%;
+    font-size: 30px;
+    text-align: center;
+    line-height: 44px;
+    color: white;
+    font-weight: 800;
+}
+.nav-box{
+    width:100%;
+    height:50px;
+    background: #41a9fe;
+    color: white;
+    line-height:50px;
+    font-size: 16px;
+}
+.fontstyle{
+    color:white;
+}
+.list-box{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+}
+.list-box>.list-first{
+    width:15%;
+    height:auto;
+    float:left;
+}
+.list-box>.list-second{
+    width:85%;
+    float:right; 
+}
+.list-second tbody,.list-second table{
+    width:100%;
+}

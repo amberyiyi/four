@@ -1,0 +1,10 @@
+.fqt table{
+    margin-left:2% !important;
+}
+.fqt tr{
+    border-color: inherit !important;
+}
+.fqt .list-content{
+    width: 100% !important;
+    min-height: 700px !important;
+}

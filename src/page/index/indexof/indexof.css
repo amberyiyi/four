@@ -1,0 +1,52 @@
+.indexof{
+    background:#eee;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.yuming{
+    padding: 0;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.www{
+    font-size: 70px;
+}
+.yuming .input{
+    width: 480px;
+    height: 58px;
+    line-height: 58px;
+    border: 1px solid #CCCCCC;
+    padding-left: 10px;
+    margin-top:30px;
+    font-size: 15px;
+    color: #333333;
+}
+.yuming .select{
+    width: 158px;
+    height: 58px;
+    line-height: 58px;
+    margin-top:30px;
+    border: 1px solid #CCCCCC;
+    font-size: 15px;
+    color: #333333;
+    background:#fff;
+}
+Select.Option{
+    font-size:20px;
+    border: none;
+    height: 60px;
+    line-height: 60px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.yuming .but{
+    height: 58px;
+    line-height: 58px;
+    margin-top:30px;
+    border-radius: 0 !important;
+}
+.yunming_price{
+    margin-top: 20px;
+}

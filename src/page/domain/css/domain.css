@@ -1,0 +1,153 @@
+.cont .ta1{
+  margin: 0 auto;
+}
+#zhong{
+  width: 200px;
+  height: 30px;
+  background: red;
+}
+.sub_yuming_banner {
+  width: 100%;
+  height: 300px;
+  background: url(../img/yuming_banner.jpg) no-repeat center;
+  margin-bottom: 30px;
+}
+.sub_yuming_c {
+  width: 100%;
+  height: auto;
+}
+.sub_yuming_tit {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-size: 20px;
+  /* background: url(../img/yuming_banner.jpg) no-repeat center; */
+}
+.sub_yuming_tit img {
+  border-right-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+}
+/* form样式 */
+from .ta1{
+  margin-bottom:30px;
+}
+.ta1 .w1{
+  font-size:40px; line-height:40px; color:#0492e8; 
+  font-weight:bold;
+}
+.ta1 .w2{
+  width:888px; height:58px; 
+  line-height:58px; border:1px solid #0492e8; 
+  padding-left:10px; font-size:25px; color:#C0C0C0;
+}
+/* form样式结束 */
+/* 中文域名样式 */
+.cont .sub_yuming_tit {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-size: 20px;
+
+}
+/* 中文域名样式结束 */
+/* 域名价格查询 */
+.sub_yuming_price_c {
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #EFEEF2;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+.sub_yuming_tit {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-size: 20px;
+}
+.sub_yuming_con {
+  width: 100%;
+  margin: 0 auto;
+}
+.sub_yuming_price_c .yu1{
+  font-size:18px; line-height:18px;
+}
+.sub_yuming_price_c .yu3{
+  font-size:18px; line-height:18px;
+}
+.sub_yuming_price_c .yu4{
+  font-size:18px; line-height:18px;
+}
+.sub_yuming_price_c .yu5{
+  font-size:18px; line-height:18px;
+}
+/* 域名价格查询结束 */
+.sub_yuming_c {
+  width: 100%;
+  height: 500px;
+  background: #fff;
+}
+.sub_yuming_c .span1{
+  font-size:25px; font-weight:bold; color:#000000;
+}
+.index_youshi_tit {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15px;
+  line-height: 180%;
+  margin-bottom: 40px;
+}
+.index_youshi_list {
+  width: 100%;
+  margin: 0 auto;
+  height: auto;
+}
+.cont .index_youshi_list_l {
+  width: 600px;
+  padding-left: 130px;
+  padding-right: 50px;
+  height: 96px;
+  line-height: 200%;
+  float: left;
+  position: relative;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.index_youshi_list_pic {
+  width: 96px;
+  height: 96px;
+  position: absolute;
+  left: 0px;
+}
+.index_youshi_list_t {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+}
+.index_youshi_list_r {
+  width: 420px;
+  padding-left: 180px;
+  height: 96px;
+  line-height: 200%;
+  float: left;
+  position: relative;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.index_youshi_list_pic2 {
+  width: 96px;
+  height: 96px;
+  position: absolute;
+  left: 50px;
+}
+
+.cont table{
+  width:1200px !important;
+  margin: 0 auto !important;
+}

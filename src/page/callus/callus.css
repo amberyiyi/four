@@ -1,0 +1,61 @@
+.sub_about_hongtiao {
+    width: 100%;
+    height: 50px;
+    background: #41a9fe;
+    margin-bottom: 10px;
+}
+.sub_about_hongtiao_t {
+    width: 1200px;
+    /* margin: 0 auto; */
+    margin-left: 25px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.sub_about_hongtiao_t a {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.sub_about_k {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
+.sub_about_k_c {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+.sub_about_k_c_l {
+    width: 180px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    height: auto;
+    background: #41a9fe;
+    float: left;
+}
+
+
+
+.sub_about_k_c_r {
+    width: 888px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: auto;
+    border: 1px solid #CCCCCC;
+    font-size: 15px;
+    line-height: 180%;
+    float: right;
+}
+.t4{
+    border-bottom: #dedede dotted 1px;
+}
+.rights11{
+    margin-left: 100px;
+}

@@ -1,0 +1,181 @@
+.sub_type_k {
+  width: 100%;
+  height: 60px;
+  background: #41a9fe;
+}
+.sub_type_k li{
+  width: 100px;
+  margin-left: 50px;
+  float: left;
+  list-style: none;
+  color: #000;
+  height: 50px;
+  line-height: 50px;
+  color: white;
+  font-size: 20px;
+}
+/* 板块开始 */
+.type_list_k {
+  width: 100%;
+  height: auto;
+  margin-bottom: 40px;
+}
+.type_list_k_c {
+  padding-top: 50px;
+  width: 1220px;
+  margin: 0px auto;
+}
+.index_xuji_list {
+  width: 285px;
+  height: auto;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  float: left;
+}
+.index_xuji_list_c {
+  width: 283px;
+  border: 1px solid #cccccc;
+  height: auto;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  background: #FFFFFF;
+}
+.index_xuji_list_c dl {
+  padding-bottom: 0px;
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+.index_xuji_list_c dl dt {
+  width: 213px;
+  padding-left: 20px;
+  height: 86px;
+  line-height: 86px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #0B75CD;
+  background: url(../img/bg.jpg) no-repeat;
+}
+.index_xuji_list_c dl dd {
+  width: 233px;
+  margin-left: 25px;
+  margin-right: 25px;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: #CCCCCC dashed 1px;
+  text-align: center;
+  font-size: 15px;
+}
+.index_xuji_list_c a:link, a:visited, a:active {
+  color: #333333;
+  text-decoration: none;
+}
+.index_xuji_list_c .xuji_fu {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+}
+.index_xuji_list_c .xuji_yuan {
+  font-size: 25px;
+  font-weight: bold;
+  color: #CC0000;
+}
+.index_xuji_list_c .xuji_fu {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+}
+.index_xuji_list{
+  text-align: center;
+  padding:0 auto;
+}
+.index_xuji_list .xuji_dg {
+  width: 65px;
+  height: 45px;
+  position: absolute;
+  bottom: 30px;
+  left: 80px;
+  background: #ff4000;
+}
+.index_xuji_list .xuji_gd {
+  width: 65px;
+  height: 45px;
+  position: absolute;
+  bottom: 30px;
+  right: 80px;
+  background: #ff4000;
+}
+/* 板块结束 */
+.tp{
+  text-align: center;
+  width: 25%;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 30px;
+
+}
+/* 中华世纪网 */
+.sub_yuming_c {
+  width: 100%;
+  height: 500px;
+  background: #fff;
+}
+.sub_yuming_c .span1{
+  font-size:25px; font-weight:bold; color:#000000;
+}
+.index_youshi_tit {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15px;
+  line-height: 180%;
+  margin-bottom: 40px;
+}
+.index_youshi_list {
+  width: 1200px;
+  margin: 0 auto;
+  height: auto;
+}
+.index_youshi_list_l {
+  width: 420px;
+  padding-left: 130px;
+  padding-right: 50px;
+  height: 96px;
+  line-height: 200%;
+  float: left;
+  position: relative;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.index_youshi_list_pic {
+  width: 96px;
+  height: 96px;
+  position: absolute;
+  left: 0px;
+}
+.index_youshi_list_t {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+}
+.index_youshi_list_r {
+  width: 420px;
+  padding-left: 180px;
+  height: 96px;
+  line-height: 200%;
+  float: left;
+  position: relative;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.index_youshi_list_pic2 {
+  width: 96px;
+  height: 96px;
+  position: absolute;
+  left: 50px;
+}
+

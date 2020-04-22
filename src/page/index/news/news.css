@@ -1,0 +1,55 @@
+.news{
+    background: #eee;
+    width:100%;
+    overflow: hidden;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.news .contents{
+    width:80%;
+    margin:0 auto;
+}
+.news .left{
+    width: 45%;
+    padding: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 1px solid #CCCCCC;
+    background: #FFFFFF;
+    float: left;
+}
+.news .left .newtit{
+    width:95%;
+    font-size: 16px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border-bottom:2px solid dodgerblue;
+}
+.news .left .newtit span{
+    float: right;
+    font-size: 16px;
+}
+.news .left .newtit span a{
+    color: #000;
+}
+.news .left .newcon span{
+    float: right;
+
+}
+.news .left .newcon ul{
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.news .left .newcon ul li{
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px dotted #ccc;
+}
+.news .left .newcon ul li a{
+    color: #000;
+}
+.news .left .newcon ul li a:hover{
+    color: red;
+}
