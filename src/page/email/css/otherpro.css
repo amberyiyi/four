@@ -1,0 +1,10 @@
+table{
+    margin-left:2%;
+}
+tr{
+    border-color: inherit;
+}
+.list-content{
+    width: 100%;
+    min-height: 700px;
+}
