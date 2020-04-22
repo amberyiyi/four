@@ -13,6 +13,7 @@
     padding-bottom: 40px;
     width: 80%;
     overflow: hidden;
+    margin: 0 auto;
 }
 .case .contents .card{
     float: left;

@@ -1,0 +1,119 @@
+.sub_about_hongtiao {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.sub_about_hongtiao_t {
+    width: 1200px;
+    /* margin: 0 auto; */
+    margin-left: 25px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.sub_about_hongtiao_t a {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.sub_about_k {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
+.sub_about_k_c {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+.sub_about_k_c_l {
+    width: 180px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    height: auto;
+    float: left;
+}
+.txy .sub_about_k_c_r {
+    width: 888px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 500px !important;
+    border: 1px solid #CCCCCC;
+    font-size: 15px;
+    line-height: 180%;
+    float: right;
+}
+
+.sub_about_k_c_l ul {
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    list-style: none;
+}
+.sub_about_k_c_l li {
+    width: 145px;
+    padding-left: 35px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px;
+    color: #FFFFFF;
+    border-bottom: 1px dotted #FFFFFF;
+    background: url(/Ytvps/Images/about_left_icon.png) 15px 16px no-repeat;
+}
+.rights{
+    margin: 0 auto;
+}
+.rightsborder{
+    border-bottom: #dedede 1px dotted;
+}
+
+.rightsborder h3{
+   
+        padding-bottom: 0px;
+        margin: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 0px;
+   
+}
+.clear {
+    clear: both;
+}
+
+.waibiankuang{
+    width: 100%;
+    height:50px;
+    border: orangered solid 1px;
+}
+.txt11{
+    width: 40%;
+    height: 20px;
+    padding: 2px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.sub_about_k_c_l li a {
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.search {
+    font-size: 16px;
+    color: #fff;
+    background-color: #4c913f;
+    width: 150px;
+    height: 34px;
+}
+.txytable a,.txya a{
+    color: #333333;
+}
+.txytable a:link, .txytable a:visited, .txytable a:active {
+        color: #333333;
+        text-decoration: none;
+    }
