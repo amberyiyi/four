@@ -16,6 +16,7 @@ a{
 }
 .logo{
     float:left;
+    height:87px;
     line-height: 87px;
 }
 .logo img.one{
@@ -53,25 +54,27 @@ ul{
     line-height: 87px;
     font-size: 16px;
 }
-.nav li :hover{
+.nav .navright li :hover{
     background:rgba(0, 0, 0, 0.1);
 }
 #nav-item:hover .nav-list{
-    
     display: block;
+    background:rgba(0, 0, 0, 0.7); 
+    z-index: 1000;
 }
 .nav-list{
-    overflow: hidden;
-    position:absolute;
+    width:104px;
+    overflow: auto;
+    position:fixed;
+    background:rgba(0, 0, 0, 0.7);
     display: none;
-    /*height: 85px;*/
-    /*margin-top: 0px;
-    padding-bottom: 10px;
-    margin-bottom: 0px;*/
 }
 
 .nav-list .nav-list-item {
     padding: 3px 0px;
+    height: 70px;
+    line-height: 30px;
+
 }
 .nav-list-item a {
     height: 50px;
